@@ -14,3 +14,4 @@ GitHub included a token at the end of the URL, which I discarded. The UML did no
 
 ![My Second UML](http://www.plantuml.com/plantuml/proxy?src=https://raw.github.com/dgbrokaw/test-plantuml/master/test-2.iuml)
 
+It won't work with a private repository!
