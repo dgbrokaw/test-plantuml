@@ -12,5 +12,5 @@ GitHub included a token at the end of the URL, which I discarded. The UML did no
 
 ![My UML](http://www.plantuml.com/plantuml/proxy?src=https://raw.github.com/dgbrokaw/test-plantuml/master/test.puml?token=ABWJ4LEV2WUB6DVB7JGXFITAQF4GC)
 
-![My Second UML](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/dgbrokaw/test-plantuml/master/test-2.iuml?token=ABWJ4LBFC5MXEBLWCUNCSCLAQF5FC)
+![My Second UML](http://www.plantuml.com/plantuml/proxy?src=https://raw.github.com/dgbrokaw/test-plantuml/master/test-2.iuml?token=ABWJ4LBFC5MXEBLWCUNCSCLAQF5FC)
 
