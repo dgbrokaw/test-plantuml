@@ -11,3 +11,6 @@ Attempting to show the UML in the README...
 GitHub included a token at the end of the URL, which I discarded. The UML did not display. Clicking the "image" shows this: `Non-Image content-type returned`.
 
 ![My UML](http://www.plantuml.com/plantuml/proxy?src=https://raw.github.com/dgbrokaw/test-plantuml/master/test.puml?token=ABWJ4LEV2WUB6DVB7JGXFITAQF4GC)
+
+![My Second UML](https://raw.githubusercontent.com/dgbrokaw/test-plantuml/master/test-2.iuml?token=ABWJ4LBFC5MXEBLWCUNCSCLAQF5FC)
+
